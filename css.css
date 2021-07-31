@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    background-color: gold;
+    height: 100px;
+    text-align: center;
+
+
+}
+ .a_fg {
+     height: 100%;
+
+ }
+ .a_gf{
+     height: 100%;
+     padding-left: 150px;
+
+
+ }
+ .a_fgc{
+     padding-left: 150px;
+     height: 100%;
+
+
+ }
+ .a_f{
+     height: 100%;
+     padding-left: 150px;
+
+
+ }
+ .a_c {
+     height: 100%;
+     padding-left: 150px;
+
+ }
